@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+PRODID:-//Airbnb Inc//Hosting Calendar 1.0//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261109T200000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261105
+SUMMARY:Reserved
+UID:bkm-synthetic-reservation-001@airbnb.com
+DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HMA7B2C3D4\nPhone Number (Last 4 Digits): 0000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T200000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Reserved
+UID:bkm-synthetic-reservation-002@airbnb.com
+DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HME5F6G7H8\nPhone Number (Last 4 Digits): 0000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T200000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261125
+SUMMARY:Reserved
+UID:bkm-synthetic-reservation-003@airbnb.com
+DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HMJ9K2L3M4\nPhone Number (Last 4 Digits): 0000
+END:VEVENT
+END:VCALENDAR
