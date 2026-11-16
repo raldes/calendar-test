@@ -74,4 +74,12 @@ SUMMARY:Reserved
 UID:bkm-synthetic-reservation-009@airbnb.com
 DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HMQ9R2S3T9\nPhone Number (Last 4 Digits): 0000
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261116T180000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Reserved
+UID:bkm-synthetic-reservation-010@airbnb.com
+DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HMQ9R2S3TA\nPhone Number (Last 4 Digits): 0000
+END:VEVENT
 END:VCALENDAR
