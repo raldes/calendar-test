@@ -49,7 +49,8 @@ DTEND;VALUE=DATE:20261207
 SUMMARY:Reserved
 UID:bkm-synthetic-reservation-006@airbnb.com
 DESCRIPTION:Reservation URL: https://www.airbnb.com/hosting/reservations/details/HMQ8R2S3T5\nPhone Number (Last 4 Digits): 0000
-END:VEVENTBEGIN:VEVENT
+END:VEVENT
+BEGIN:VEVENT
 UID:bkm-synthetic-reservation-20261213-001@bkm.test
 DTSTAMP:20261116T114300Z
 DTSTART;VALUE=DATE:20261213
